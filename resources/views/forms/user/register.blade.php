@@ -27,7 +27,8 @@
     </div>
     @endif
     <div class="row justify-content-center mt-1">
-        <button type="submit">Đăng ký</button>
+        <button class="btn btn-primary" type="submit">Đăng ký</button>
+        <a class="btn btn-secondary ml-1" href="/">Hủy</a>
     </div>
 </form>
 @include('includes.footer')
