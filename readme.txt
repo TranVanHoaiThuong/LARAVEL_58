@@ -1,0 +1,3 @@
+- Chạy lệnh composer install để install các pakage
+- Chạy lệnh php artisan key:generate để cấu hình key cho app
+- Chạy lệnh php artisan config:cache để cấu hình cache, sau khi thay đổi cấu hình trong file .env
